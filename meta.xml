@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>chicken</id>
+  <name>Chicken</name>
+  <description>Adds antidepressant button to the top panel</description>
+  <version>1.0</version>
+  <release>1</release>
+  <vendor>Useless extensions</vendor>
+  <plesk_min_version>17.8.11</plesk_min_version>
+</module>
